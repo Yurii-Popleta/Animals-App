@@ -1,9 +1,3 @@
-//
-//  SceneDelegate.swift
-//  animals
-//
-//  Created by Admin on 12/09/2022.
-//
 
 import UIKit
 
