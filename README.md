@@ -13,7 +13,7 @@ Creating app that can recognize cat, dog and rabbit depending on photo that user
 ## What I understand and implement in this app
 
 * How to create own core machine learning model by using CreateML with our own data.
-* Understend how to create data for training own model.
+* Understand how to create data for training own model.
 * Learn how use photo in CreateML.
 * How to test our machine learning model.
 * How to use our finished model.
